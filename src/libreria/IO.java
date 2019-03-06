@@ -109,7 +109,7 @@ public class IO {
     
     /**
      * 
-     * @param selector if you put 0 in the selector you select consola and if you put 1 you select ventana.
+     * @param selector 0 -->  seleccionará consola //  1 -->  seleccionará vetana.
      * @param mensaje Mensaje a imprimir.
      */
     private static void selectorIntroS(int selector,String mensaje){
